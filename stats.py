@@ -28,9 +28,11 @@ def count_characters(string):
         
     return character_count
 
+
 def get_num_key(dict):
     num_key = dict["num"]
     return num_key
+
 
 def sort_dictionary(dictionary):
     sorted_list = []
